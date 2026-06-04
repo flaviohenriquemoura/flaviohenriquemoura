@@ -3,7 +3,7 @@
     <img src="https://cdn3.emoji.gg/emojis/238112-doomscrollcapoo.gif" width="64px" height="64px" alt="DoomScrollCapoo">
   </a>
   <br>
-  <strong style="font-size: 40px">Flávio H. Moura</strong>
+  <strong>Flávio H. Moura</strong>
 </p>
 
 
@@ -16,6 +16,7 @@
 
 <a href="https://emoji.gg/emoji/32862-windowslogo"><img src="https://cdn3.emoji.gg/emojis/32862-windowslogo.png" width="20px" height="20px" alt="WindowsLogo"></a>
 I'm a developer in training with a passion for technology and everything it involves. Currently, I'm working toward becoming a Full-Stack Developer, constantly learning new tools, frameworks, and best practices while building projects and expanding my skills.
+
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,3 +26,6 @@ I'm a developer in training with a passion for technology and everything it invo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=flaviohenriquemoura.flaviohenrqiuemoura&left_text=visitors&left_color=%23595959&right_color=%231a5fb4&logo=github&radius=5)
+
+
+</div>
