@@ -3,7 +3,7 @@
     <img src="https://cdn3.emoji.gg/emojis/238112-doomscrollcapoo.gif" width="64px" height="64px" alt="DoomScrollCapoo">
   </a>
   <br>
-  <strong>Flávio H. Moura</strong>
+  <p align="center"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=25&duration=2000&pause=9000&center=true&color=73F7F3&background=304DE600&width=900&lines=Fl%C3%A1vio%20H.%20Moura" alt="Typing SVG"></p>
 </p>
 
 
